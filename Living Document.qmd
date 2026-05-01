@@ -10,13 +10,13 @@ format:
   html: default 
   pdf: 
     documentclass: article 
-      papersize: A4 
+    papersize: A4 
 fontsize: 12pt 
 number-sections: true 
 editor: visual
 ---
 
-**GitHub Repository:** https://github.com/lenxqveen/SMNF-B5.git \
+**GitHub Repository:** https://github.com/lenxqveen/SMNF-B5.git\
 **Für die Abgabe aktueller GitHub Hash:** SOME_HASH
 
 ## 1. Einleitung
