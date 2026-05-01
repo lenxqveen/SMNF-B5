@@ -1,0 +1,42 @@
+---
+title: "Living Docoment"
+author: 
+  - "Chantal Höche" 
+  - "Franziska Bruns" 
+  - "Nadin Ibrahim" 
+  - "Ruth Rex" 
+date: today 
+format: 
+  html: default 
+  pdf: 
+    documentclass: article 
+      papersize: A4 
+fontsize: 12pt 
+number-sections: true 
+editor: visual
+---
+
+**GitHub Repository:** https://github.com/lenxqveen/SMNF-B5.git \
+**Für die Abgabe aktueller GitHub Hash:** SOME_HASH
+
+## 1. Einleitung
+
+Text
+
+## 2. Literaturübersicht
+
+Text
+
+## 3. Studie 1
+
+Text
+
+## 4. Studie 2
+
+Text
+
+## 5. Diskussion
+
+Text
+
+## Code of Conduct
