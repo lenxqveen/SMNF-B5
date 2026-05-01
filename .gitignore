@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.positai
+
+# Output files from Quarto render
+*.pdf
+*.html
+*.csv
+abstract_files/*
