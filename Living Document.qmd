@@ -1,5 +1,5 @@
 ---
-title: "Living Docoment"
+title: "Living Document"
 author: 
   - "Chantal Höche" 
   - "Franziska Bruns" 
@@ -21,7 +21,7 @@ editor: visual
 
 ## 1. Einleitung
 
-Text Unser Projekt
+Text
 
 ## 2. Literaturübersicht
 
