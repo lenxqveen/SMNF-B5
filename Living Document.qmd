@@ -17,32 +17,15 @@ editor: visual
 ---
 
 **GitHub Repository:** https://github.com/lenxqveen/SMNF-B5.git\
-**Für die Abgabe aktueller GitHub Hash:** HASH
+**Für die Abgabe aktueller GitHub Hash:** 2744927
 
-***Code of Conduct***
+**Code of Conduct**
 
-*Umgang mit Feedback, unterschiedlichen Perspektiven und Meinungsverschiedenheiten.*
-
-Jeder darf seine Meinung äußern, solange keine Personen persönlich angegriffen werden. Entsprechend muss auch jede Meinung respektiert werden.
-
-*Aufteilung der Arbeitslast.*
-
-Jedes Mitglied versucht so weit wie möglich eine gleichwertigen Arbeitslast zu tragen. In Notfällen ist es allerdings in Ordnung, wenn die Arbeitsaufteilung unterschiedlich stark verteilt ist.
-
-*Verhalten in Bezug auf vereinbarte und verpflichtende Termine.*
-
-Jeder muss zu allen Treffen erscheinen. Natürlich ist eine Absage kein Problem, solange es am besten einen Tag vorher geschieht. Auch am selben Tag mit triftigem Grund ist dies von den anderen zu akzeptieren.
-
-*Einhaltung der wissenschaftlichen Integrität (siehe vorangehende Folien).*
-
-Jeder verpflichtet sich dazu sich an die Anforderungen der wissenschaftlichen Integrität zu orientieren und diese einzuhalten.
-
-*Verpflichtung zum Schutz von Daten und zur Wahrung ihrer Vertraulichkeit.*
-
-Jeder verpflichtet sich dazu die Datenschutz Bedingungen korrekt einzuhalten.
-
-*Nutzung und Kennzeichnung von KI-Tools (siehe Folien).*
-
+Jeder darf seine Meinung äußern, solange keine Personen persönlich angegriffen werden. Entsprechend muss auch jede Meinung respektiert werden.\
+Jedes Mitglied versucht so weit wie möglich eine gleichwertigen Arbeitslast zu tragen. In Notfällen ist es allerdings in Ordnung, wenn die Arbeitsaufteilung unterschiedlich stark verteilt ist.\
+Jeder muss zu allen Treffen erscheinen. Natürlich ist eine Absage kein Problem, solange es am besten einen Tag vorher geschieht. Auch am selben Tag mit triftigem Grund ist dies von den anderen zu akzeptieren.\
+Jeder verpflichtet sich dazu sich an die Anforderungen der wissenschaftlichen Integrität zu orientieren und diese einzuhalten.\
+Jeder verpflichtet sich dazu die Datenschutz Bedingungen korrekt einzuhalten.\
 Jeder ist dazu verpflichtet Texte, oder ähnliches, bei welchem man KI-Tools zur Hilfe genommen hat, dementsprechend auch korrekt zu beschriften.
 
 ## Einleitung
