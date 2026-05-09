@@ -36,7 +36,13 @@ Text
 
 ## Literaturübersicht
 
-Text
+Almalkawi, Islam T., Sabya Shtaiwi, Alaa Alhowaide, und Manel Guerrero Zapata. „AI-Enhanced Thermal–Visual–Inertial Odometry and Autonomous Planning for GPS-Denied Search-and- Rescue Robotics“. *Sensors* 26, Nr. 8 (2026): 2462. <https://doi.org/10.3390/s26082462>.
+
+Doherty, Patrick, und Piotr Rudol. „A UAV Search and Rescue Scenario with Human Body Detection and Geolocalization“. In *AI 2007: Advances in Artificial Intelligence*, herausgegeben von Mehmet A. Orgun und John Thornton. Springer, 2007. <https://doi.org/10.1007/978-3-540-76928-6_1>.
+
+Gruner, Marthe, Toni Schumacher, Clara Gesine Wilk, u. a. „AI-Assisted Person Detection in Maritime Search and Rescue: Managing Workload Distribution of Helicopter Crew Operations“. In *Smarter Workplaces: The Role of AI in Promoting Occupational Safety and Health*, herausgegeben von Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA). BAuA, 2025. <https://doi.org/10.21934/baua:focus20250729>.
+
+Wickens, Christopher D. „Effort in Human Factors Performance and Decision Making“. *Human Factors: The Journal of the Human Factors and Ergonomics Society* 56, Nr. 8 (2014): 1329–36. <https://doi.org/10.1177/0018720814558419>.
 
 ## Studie 1
 
