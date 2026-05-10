@@ -42,6 +42,8 @@ Doherty, Patrick, und Piotr Rudol. „A UAV Search and Rescue Scenario with Huma
 
 Gruner, Marthe, Toni Schumacher, Clara Gesine Wilk, u. a. „AI-Assisted Person Detection in Maritime Search and Rescue: Managing Workload Distribution of Helicopter Crew Operations“. In *Smarter Workplaces: The Role of AI in Promoting Occupational Safety and Health*, herausgegeben von Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA). BAuA, 2025. <https://doi.org/10.21934/baua:focus20250729>.
 
+Martinez-Alpiste, I., Golcarenarenji, G., Wang, Q., & Alcaraz-Calero, J. M. (2021). *Search and rescue operation using UAVs: A case study. Expert Systems with Applications*. (Volume 178). Elsevier. 114937. <https://doi.org/10.1016/j.eswa.2021.114937>.
+
 Wickens, Christopher D. „Effort in Human Factors Performance and Decision Making“. *Human Factors: The Journal of the Human Factors and Ergonomics Society* 56, Nr. 8 (2014): 1329–36. <https://doi.org/10.1177/0018720814558419>.
 
 ## Studie 1
